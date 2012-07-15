@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE repositories SYSTEM "/dtd/repositories.dtd">
+<repositories xmlns="" version="1.0">
+<repo quality="experimental" status="unofficial">
+    <name>odin</name>
+    <description>a hodgepodge of ebuilds</description>
+    <homepage>https://github.com/dustinrc/odin-overlay</homepage>
+    <owner>
+        <email>dustin.r.chapman@gmail.com</email>
+        <name>Dustin Chapman</name>
+    </owner>
+    <source type="git">https://github.com/dustinrc/odin-overlay.git</source>
+    <feed>https://github.com/dustinrc/odin-overlay/commits/master.atom</feed>
+</repo>
+</repositories>
